@@ -1,0 +1,10 @@
+^D:\JSON PROJECT\JSON-TUTORIAL\TUTORIAL05\BUILD\CMAKEFILES\ECE4E0EDB8781F38F15676736708DB91\GENERATE.STAMP.RULE
+setlocal
+E:\cMake\bin\cmake.exe "-SD:/json project/json-tutorial/tutorial05" "-BD:/json project/json-tutorial/tutorial05/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/json project/json-tutorial/tutorial05/build/leptjson_test.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

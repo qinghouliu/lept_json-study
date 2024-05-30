@@ -1,0 +1,10 @@
+^D:\JSON PROJECT\JSON-TUTORIAL\TUTORIAL02\CMAKELISTS.TXT
+setlocal
+E:\cMake\bin\cmake.exe "-SD:/json project/json-tutorial/tutorial02" "-BD:/json project/json-tutorial/tutorial02/build" --check-stamp-file "D:/json project/json-tutorial/tutorial02/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

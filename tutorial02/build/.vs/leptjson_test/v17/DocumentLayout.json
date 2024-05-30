@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\json project\\json-tutorial\\tutorial02\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA967F6-4B0A-3FFA-8373-C22769A21419}|leptjson_test.vcxproj|D:\\json project\\json-tutorial\\tutorial02\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA8310F-2219-3BE1-966B-935CC25AA317}|leptjson.vcxproj|D:\\json project\\json-tutorial\\tutorial02\\leptjson.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA8310F-2219-3BE1-966B-935CC25AA317}|leptjson.vcxproj|D:\\JSON PROJECT\\JSON-TUTORIAL\\TUTORIAL02\\LEPTJSON.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\json project\\json-tutorial\\tutorial02\\test.c",
+              "RelativeDocumentMoniker": "..\\test.c",
+              "ToolTip": "D:\\json project\\json-tutorial\\tutorial02\\test.c",
+              "RelativeToolTip": "..\\test.c",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJ8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-04T08:30:42.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "leptjson.h",
+              "DocumentMoniker": "D:\\json project\\json-tutorial\\tutorial02\\leptjson.h",
+              "RelativeDocumentMoniker": "..\\leptjson.h",
+              "ToolTip": "D:\\json project\\json-tutorial\\tutorial02\\leptjson.h",
+              "RelativeToolTip": "..\\leptjson.h",
+              "ViewState": "AQIAAAUAAAAAAAAAAAD4vxQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-04T08:32:53.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "leptjson.c",
+              "DocumentMoniker": "D:\\json project\\json-tutorial\\tutorial02\\leptjson.c",
+              "RelativeDocumentMoniker": "..\\leptjson.c",
+              "ToolTip": "D:\\json project\\json-tutorial\\tutorial02\\leptjson.c",
+              "RelativeToolTip": "..\\leptjson.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-04T08:30:27.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
