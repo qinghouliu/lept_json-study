@@ -1,0 +1,8 @@
+﻿  test.c
+D:\json project\json-tutorial\tutorial08\test.c(568,24): warning C4244: “函数”: 从“size_t”转换到“double”，可能丢失数据
+D:\json project\json-tutorial\tutorial08\test.c(603,23): warning C4244: “函数”: 从“size_t”转换到“double”，可能丢失数据
+D:\json project\json-tutorial\tutorial08\test.c(649,14): warning C4267: “+=”: 从“size_t”转换到“char”，可能丢失数据
+D:\json project\json-tutorial\tutorial08\test.c(651,24): warning C4244: “函数”: 从“size_t”转换到“double”，可能丢失数据
+D:\json project\json-tutorial\tutorial08\test.c(658,14): warning C4267: “+=”: 从“size_t”转换到“char”，可能丢失数据
+D:\json project\json-tutorial\tutorial08\test.c(715,15): warning C4267: “+=”: 从“size_t”转换到“char”，可能丢失数据
+  leptjson_test.vcxproj -> D:\json project\json-tutorial\tutorial08\build\Debug\leptjson_test.exe

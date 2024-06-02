@@ -1,0 +1,4 @@
+﻿  leptjson.c
+D:\json project\json-tutorial\tutorial08\leptjson.c(411,35): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\json project\json-tutorial\tutorial08\leptjson.c(658,54): warning C4028: 形参 1 与声明不同
+  leptjson.vcxproj -> D:\json project\json-tutorial\tutorial08\build\Debug\leptjson.lib
